@@ -1,0 +1,21 @@
+table,
+td,
+th {
+    border: 2px none;
+    border-collapse: collapse;
+    padding: 20px;
+}
+body {
+    background-image: url("https://wallpaperaccess.com/full/461236.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table {
+    width: 100%;
+}
+td:hover {
+    border: 0px solid;
+    background-image: url("https://media.tenor.com/cuhb1sqAnW4AAAAj/terence-angry-birds.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
